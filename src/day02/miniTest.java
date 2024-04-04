@@ -49,3 +49,5 @@ class Apple extends Phone {
         this.beepSound = beepSound;
     }
 }
+
+// 리드미에는 markdown 적용!
