@@ -10,7 +10,7 @@ public class miniTest {
         Phone beckhamPhone = new Apple("bbeep");
         Owner beckham = new Owner("turn on", beckhamPhone);
 
-        beckham.turnOnPhone();
+        beckham.turnOnPhone(); // 각자 구분했음
     }
 }
 
